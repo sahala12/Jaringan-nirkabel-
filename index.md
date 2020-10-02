@@ -19,8 +19,8 @@
 
 **Bold** and _Italic_ and `Code` Gambar,keamanan jaringan
 
-[Link](url) and ![image](KEAMANAN+JARINGAN.jpg)
-[image](keamanan.jpg)
+[Link](url) and ![image](KEAMANAN+JARINGAN.jpg,keamanan.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

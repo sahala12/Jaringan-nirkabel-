@@ -1,8 +1,7 @@
 ## Jaringan Nirkabel
 
    Jaringan nirkabel adalah suatu jaringan yang mengghubungkan unit komputer yang jauh atau dekat menggunakan tanpa kabel.
-   
-   ### Keamanan Jaringan 
+ ### Keamanan Jaringan 
    keamanan jaringan sagatlah retang karena pengguna lain bisa disadap atau saling sadap ,kalo misalnya kita kirim data lewat udara bebas.
    ada beberapa cara untuk mengatasi jaringan diantara lain sebagai berikut;
    

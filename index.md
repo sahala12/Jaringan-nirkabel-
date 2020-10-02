@@ -16,7 +16,7 @@
 
  Gambar,keamanan jaringan
 
-[Link](url) and ![image](keamanan.jpg) ![image](KEAMANAN+JARINGAN.jpg)
+ ![image](keamanan.jpg) ![image](KEAMANAN+JARINGAN.jpg)
 
 
 ```

@@ -1,13 +1,10 @@
 ## Jaringan Nirkabel
-
-##Keamanan Jaringan
-    
-  Jaringan nirkabel adalah suatu jaringan yang mengghubungkan unit komputer yang jauh atau dekat menggunakan tanpa kabel.
+ Jaringan nirkabel adalah suatu jaringan yang mengghubungkan unit komputer yang jauh atau dekat menggunakan tanpa kabel.
 
 
-Keamanan Jaringan 
-   keamanan jaringan sagatlah retang karena pengguna lain bisa disadap atau saling sadap ,kalo misalnya kita kirim data lewat udara bebas.
-   ada beberapa cara untuk mengatasi jaringan diantara lain sebagai berikut;
+### Keamanan Jaringan
+Keamanan jaringan sagatlah retang karena pengguna lain bisa disadap atau saling sadap ,kalo misalnya kita kirim data lewat udara bebas.
+ada beberapa cara untuk mengatasi jaringan diantara lain sebagai berikut;
    
 -  (Wired Equivalent Privacy) cara ini dengan mengandingkan data tersebut.WEP didasarkan pada algoritma enkripsi, dimana RA4 itu dengan 
        mengandingkan data menggunakan kunci, kuncinya itu berbeda dengan penerima dan pengirim ,RSA kuncinya sama hanya saja betnya diputar 

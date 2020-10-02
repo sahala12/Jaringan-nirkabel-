@@ -2,15 +2,14 @@
 
    Jaringan nirkabel adalah suatu jaringan yang mengghubungkan unit komputer yang jauh atau dekat menggunakan tanpa kabel.
    
-
-### Keamanan Jaringan 
+   ### Keamanan Jaringan 
    keamanan jaringan sagatlah retang karena pengguna lain bisa disadap atau saling sadap ,kalo misalnya kita kirim data lewat udara bebas.
    
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Ada beberapa cara 
+
 
 # Header 1
 ## Header 2

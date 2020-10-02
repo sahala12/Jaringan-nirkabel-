@@ -11,6 +11,7 @@
        antara pengirim dan penerima.
 - SSID (Service Set Identifier) cara ini ini berupa password sederhana untuk menghindari pengaruh yang tidak bertanggung jawab ,maka password dirubah 
   secara bertahap.
+-Filter Alamat MAC (Media Access Control), cara ini membantu menangkal pengguna akses pada jaringan WLAN yang mau masuk kealamat MAC.
 1. Numbered
 2. List
 

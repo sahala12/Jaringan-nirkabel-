@@ -12,14 +12,14 @@
 - SSID (Service Set Identifier) cara ini ini berupa password sederhana untuk menghindari pengaruh yang tidak bertanggung jawab ,maka password dirubah 
   secara bertahap.
 - Filter Alamat MAC (Media Access Control), cara ini membantu menangkal pengguna akses pada jaringan WLAN yang mau masuk kealamat MAC.
- [Link](url) and ![KEAMANAN+JARINGAN.jpg](src)
+ 
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![KEAMANAN+JARINGAN.jpg](src)
+[Link](url) and ![image](KEAMANAN+JARINGAN.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

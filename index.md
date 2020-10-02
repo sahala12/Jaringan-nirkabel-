@@ -5,11 +5,28 @@
    ### Keamanan Jaringan 
    keamanan jaringan sagatlah retang karena pengguna lain bisa disadap atau saling sadap ,kalo misalnya kita kirim data lewat udara bebas.
    ada beberapa cara untuk mengatasi jaringan diantara lain sebagai berikut;
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+
+
+# Header 1
+## Header 2
+### keamanan jaringan sagatlah retang karena pengguna lain bisa disadap atau saling sadap ,kalo misalnya kita kirim data lewat udara bebas.
+   ada beberapa cara untuk mengatasi jaringan diantara lain sebagai berikut;
     1. (Wired Equivalent Privacy) cara ini dengan mengandingkan data tersebut.WEP didasarkan pada algoritma enkripsi, dimana RA4 itu dengan 
        mengandingkan data menggunakan kunci, kuncinya itu berbeda dengan penerima dan pengirim ,RSA kuncinya sama hanya saja betnya diputar 
        antara pengirim dan penerima
     2.
-     . List
+
+-  (Wired Equivalent Privacy) cara ini dengan mengandingkan data tersebut.WEP didasarkan pada algoritma enkripsi, dimana RA4 itu dengan 
+       mengandingkan data menggunakan kunci, kuncinya itu berbeda dengan penerima dan pengirim ,RSA kuncinya sama hanya saja betnya diputar 
+       antara pengirim dan penerima.
+- SSID (Service Set Identifier) cara ini ini berupa password sederhana untuk menghindari pengaruh yang tidak bertanggung jawab ,maka password dirubah 
+  secara bertahap.
+1. Numbered
+2. List
 
 **Bold** and _Italic_ and `Code` text
 

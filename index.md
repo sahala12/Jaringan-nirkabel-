@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Jaringan Nirkabel
 
-You can use the [editor on GitHub](https://github.com/sahala12/Jaringan-nirkabel-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+   Jaringan nirkabel adalah suatu jaringan yang mengghubungkan unit komputer yang jauh atau dekat menggunakan tanpa kabel.
+   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Keamanan Jaringan 
+   keamanan jaringan sagatlah retang karena pengguna lain bisa disadap atau saling sadap ,kalo misalnya kita kirim data lewat udara bebas.
+   
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Ada beberapa cara 
 
 # Header 1
 ## Header 2

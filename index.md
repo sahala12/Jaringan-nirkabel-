@@ -19,7 +19,8 @@
 
 **Bold** and _Italic_ and `Code` Gambar,keamanan jaringan
 
-[Link](url) and ![image](keamanan.jpg)
+[Link](url) and ![image](keamanan.jpg)[Link](url) and ![image](KEAMANAN+JARINGAN.jpg)
+
 
 ```
 

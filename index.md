@@ -14,7 +14,7 @@
 - Filter Alamat MAC (Media Access Control), cara ini membantu menangkal pengguna akses pada jaringan WLAN yang mau masuk kealamat MAC.
  
 
-          ##Gambar,keamanan jaringan
+     Gambar,keamanan jaringan
 
  ![image](keamanan.jpg)         ![image](KEAMANAN+JARINGAN.jpg)
 
